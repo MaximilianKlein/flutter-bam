@@ -1,0 +1,14 @@
+name: flutter_bam
+description: Flutter Bam is a set of tools to help you develop flutter apps
+version: 0.0.1
+author: Maximilian Klein
+
+environment:
+  sdk: ">=2.11.0 <3.0.0"
+
+dependencies:
+  test: ^1.15.5
+  analyzer: '>=0.39.15 <0.42.0'
+  tuple: ^1.0.3
+  yaml: ^2.2.1
+  path: ^1.7.0
